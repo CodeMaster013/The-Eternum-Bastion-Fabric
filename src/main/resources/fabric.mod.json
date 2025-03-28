@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "the_eternum_bastion",
+  "version": "${version}",
+  "name": "The Eternum Bastion",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/the_eternum_bastion/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "org.creators.the_eternum_bastion.client.The_eternum_bastionClient"
+    ],
+    "main": [
+      "org.creators.the_eternum_bastion.The_eternum_bastion"
+    ]
+  },
+  "mixins": [
+    "the_eternum_bastion.mixins.json",
+    {
+      "config": "the_eternum_bastion.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
