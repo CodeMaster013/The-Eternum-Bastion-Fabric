@@ -14,19 +14,13 @@
       "org.creators.the_eternum_bastion.client.The_eternum_bastionClient"
     ],
     "main": [
-      "org.creators.the_eternum_bastion.The_eternum_bastion"
+      "org.creators.the_eternum_bastion.The_eternum_bastionMod"
     ]
   },
-  "mixins": [
-    "the_eternum_bastion.mixins.json",
-    {
-      "config": "the_eternum_bastion.client.mixins.json",
-      "environment": "client"
-    }
-  ],
   "depends": {
     "fabricloader": ">=${loader_version}",
     "fabric": "*",
-    "minecraft": "${minecraft_version}"
+    "minecraft": "${minecraft_version}",
+    "patchouli": "1.19.2-77-fabric"
   }
 }
