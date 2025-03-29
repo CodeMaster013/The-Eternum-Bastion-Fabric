@@ -10,9 +10,6 @@
   "icon": "assets/the_eternum_bastion/icon.png",
   "environment": "*",
   "entrypoints": {
-    "client": [
-      "org.creators.the_eternum_bastion.client.The_eternum_bastionClient"
-    ],
     "main": [
       "org.creators.the_eternum_bastion.The_eternum_bastionMod"
     ]
