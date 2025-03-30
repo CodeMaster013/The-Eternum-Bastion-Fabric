@@ -22,6 +22,8 @@ This mod is under active development. Current goals include:
 - Implementing fully functional multiblock systems
 - Enhancing the lore book with interactive displays
 - Fine-tuning entries, categories, and additional lore content
+- Custom Textures for multiblocks
+- And More!!!
 
 See the [TODO.MD](TODO.MD) file for a list of upcoming features.
 
