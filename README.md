@@ -31,6 +31,7 @@ See the [TODO.MD](TODO.MD) file for a list of upcoming features.
 - **Minecraft:** 1.XX (please check the specific version on the Modrinth page)
 - **Fabric Loader:** Latest version
 - **Fabric API:** Latest version
+- **Patchouli:** Latest Version
 
 ### Steps
 1. Download the latest `.jar` file from the [Modrinth release page](https://modrinth.com/project/the-eternum-bastion) or [GitHub releases](#).
