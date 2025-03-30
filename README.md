@@ -43,12 +43,10 @@ To build the mod from source:
 1. Clone the repository:
    ```bash
    git clone https://github.com/CodeMaster013/The-Eternum-Bastion-Fabric.git
+   
 Navigate into the project directory:
-
-bash
-Copy
-Edit
 cd The-Eternum-Bastion-Fabric
+
 Build the project using Gradle:
 
 ./gradlew build
