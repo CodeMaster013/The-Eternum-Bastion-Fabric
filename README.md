@@ -1,6 +1,6 @@
 # The Eternum Bastion (Fabric)
 
-Welcome to **The Eternum Bastion (Fabric)** – a Minecraft mod developed for the Fabric mod loader that reimagines bastion structures with dynamic multiblock systems and an engaging lore book. This project is currently in development, with exciting features on the horizon!
+Welcome to **The Eternum Bastion (Fabric)** – a Minecraft mod developed for the Fabric mod loader that adds a dynamic multiblock system and an engaging lore book. This project is currently in development, with exciting features on the horizon!
 
 ## Features
 
