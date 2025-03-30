@@ -55,13 +55,13 @@ Build the project using Gradle:
 ./gradlew build
 The compiled .jar file will be located in the build/libs directory.
 
-Contributing
+Contributing - 
 Contributions are welcome! Whether you have bug fixes, feature suggestions, or improvements to the lore and design, feel free to open an issue or submit a pull request. Please follow the existing code style and commit message guidelines.
 
-License
+License - 
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License. Please review the license details before using or contributing to the mod.
 
-Acknowledgments
+Acknowledgments - 
 Special thanks to the Minecraft modding community for inspiration and support.
 
 Additional credits go to contributors and testers who have helped shape the project.
