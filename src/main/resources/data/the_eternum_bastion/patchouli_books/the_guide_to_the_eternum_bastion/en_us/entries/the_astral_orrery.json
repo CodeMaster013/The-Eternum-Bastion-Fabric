@@ -1,7 +1,7 @@
 {
   "name": "Test Entry",
   "icon": "minecraft:writable_book",
-  "category": "the_guide_to_the_eternum_bastion:multiblocks",
+  "category": "the_eternum_bastion:multiblocks",
   "pages": [
     {
       "type": "patchouli:text",
