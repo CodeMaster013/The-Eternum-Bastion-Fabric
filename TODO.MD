@@ -1,9 +1,7 @@
-Have Entries And Categories Display
-<br>
-Have Working Multiblocks
-<br> 
-Have multiblocks display in book
-<br>
-Add Lore to the book
-<br>
-Implement Working Multiblocks
+<ul>
+  <li>Have Entries And Categories Display</li>
+  <li>Have Working Multiblocks</li>
+  <li>Have multiblocks display in book</li>
+  <li>Add Lore to the book</li>
+  <li>Implement Working Multiblocks</li>
+</ul>
