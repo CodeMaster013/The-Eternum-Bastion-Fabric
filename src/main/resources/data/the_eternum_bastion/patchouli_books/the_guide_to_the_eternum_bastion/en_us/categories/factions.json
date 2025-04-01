@@ -1,0 +1,6 @@
+{
+  "name": "Factions",
+  "description": "This category holds all of the lore of the Factions of this world!",
+  "icon": "minecraft:writable_book",
+  "parent": "the_eternum_bastion:lore"
+}
