@@ -6,6 +6,6 @@
   <li>Implement Working Multiblocks</li>
   <li>Custom Relics</li>
   <li>Custom NPCS and Trader NPCs</li>
-  <li>Blabber Dialogues</li>
+  <li></li>
   <li></li>
 </ul>
