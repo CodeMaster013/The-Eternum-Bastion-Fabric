@@ -1,0 +1,6 @@
+{
+  "name": "Relics",
+  "description": "This category holds all of the structures of the factions of this world",
+  "icon": "minecraft:writable_book",
+  "parents": "the_eternum_bastion:lore"
+}
