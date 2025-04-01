@@ -1,11 +1,17 @@
 {
   "name": "Temporal Continuum Engine",
-  "icon": "minecraft:writable_book",
+  "icon": "the_eternum_bastion:temporal_continuum_engine",
   "category": "the_eternum_bastion:multiblocks",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "This is a test entry, but it should show up!"
+      "title": "Temporal Continuum Engine",
+      "text": "Located at the heart of the Chronomancer’s Observatory, this colossal cylindrical device is forged from void-forged metal and enchanted crystal. Its surface, inscribed with shifting temporal runes in silver and deep blue, represents the ever-changing flow of time."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Functions",
+      "text": "The Engine generates localized time fields, allowing Chronomancers to slow or accelerate time for research and defense. It also captures temporal fluctuations to provide prophetic insights and maintain the Bastion’s time stability."
     }
   ]
 }

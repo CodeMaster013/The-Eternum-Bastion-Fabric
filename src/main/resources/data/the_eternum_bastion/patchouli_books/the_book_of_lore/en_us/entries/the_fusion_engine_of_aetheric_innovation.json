@@ -1,11 +1,17 @@
 {
-  "name": "Fusion Engine",
-  "icon": "minecraft:writable_book",
+  "name": "Fusion Engine Of Aetheric Innovation",
+  "icon": "the_eternum_bastion:fusion_engine",
   "category": "the_eternum_bastion:multiblocks",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "This is a test entry, but it should show up!"
+      "title": "Fusion Engine Of Aetheric Innovation",
+      "text": "At the heart of the Magitek Research Facility lies the Fusion Engine Of Aetheric Innovation—a colossal, dynamic apparatus designed to synthesize raw magical energy with advanced technological components. Forged from void-forged alloy and transparent, enchanted crystal, its core hosts an ever-rotating vortex of raw aether that mesmerizes and fuels cutting-edge magitek experiments."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Functions",
+      "text": "The Fusion Engine converts unstable magical energy into a refined, stable form, powering advanced artifacts, animating constructs, and reinforcing the Bastion’s defenses. With interlocking gears and arcane circuitry, it adapts in real time to various experimental configurations, seamlessly merging ancient magic with futuristic technology."
     }
   ]
 }

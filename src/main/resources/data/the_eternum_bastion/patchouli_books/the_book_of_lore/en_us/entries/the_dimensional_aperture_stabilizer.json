@@ -1,11 +1,17 @@
 {
   "name": "Dimensional Aperture Stabilizer",
-  "icon": "minecraft:writable_book",
+  "icon": "the_eternum_bastion:dimensional_aperture_stabilizer",
   "category": "the_eternum_bastion:multiblocks",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "This is a test entry, but it should show up!"
+      "title": "Dimensional Aperture Stabilizer",
+      "text": "At the heart of the Planar Gateway Nexus, the Dimensional Aperture Stabilizer is a towering cylindrical construct made of void-forged alloy and crystalline panels. Its surface is etched with complex, shifting runes that calibrate and stabilize interdimensional portals."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Functions",
+      "text": "It channels raw, unstable energy from the Rift into a steady stream, synchronizing portal openings with cosmic alignments. In emergencies, it activates defensive protocols, locking portals and redirecting excess energy through the Aetherflow Conduit."
     }
   ]
 }

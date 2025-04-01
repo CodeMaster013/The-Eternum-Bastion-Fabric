@@ -1,11 +1,17 @@
 {
   "name": "Elemental Core Regulator",
-  "icon": "minecraft:writable_book",
+  "icon": "the_eternum_bastion:elemental_core_regulator",
   "category": "the_eternum_bastion:multiblocks",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "This is a test entry, but it should show up!"
+      "title": "Elemental Core Regulator",
+      "text": "At the center of the Elemental Convergence Chamber, the Elemental Core Regulator harmonizes the raw energies of earth, water, air, and fire. Its interlocking rings and crystalline components adjust the elemental flow with precision."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Capabilities",
+      "text": "It can amplify or suppress elemental forces to power experiments or create defensive barriers, ensuring that the Bastion’s elemental energy remains balanced and controlled."
     }
   ]
 }

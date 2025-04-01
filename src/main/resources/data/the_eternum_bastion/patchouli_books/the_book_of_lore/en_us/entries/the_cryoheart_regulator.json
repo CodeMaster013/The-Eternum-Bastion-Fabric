@@ -1,11 +1,17 @@
 {
   "name": "Cryoheart Regulator",
-  "icon": "minecraft:writable_book",
+  "icon": "the_eternum_bastion:cryoheart_regulator",
   "category": "the_eternum_bastion:multiblocks",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "This is a test entry, but it should show up!"
+      "title": "Cryoheart Regulator",
+      "text": "Deep within the Glacial Vault, the Cryoheart Regulator stands as a monumental device that orchestrates the vault’s frigid energies. Constructed from frost-forged alloy and crystalline ice, its surface is inscribed with ancient runes that glow with a cool, sapphire light, echoing the eternal chill of a timeless winter."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Functions",
+      "text": "The Cryoheart Regulator modulates ambient cryogenic energy, converting raw magical cold into controlled, focused bursts used for preservation, healing, and defense. By drawing upon the power of perpetual winter, it stabilizes the Glacial Vault and channels its restorative magic throughout the Eternum Bastion."
     }
   ]
 }

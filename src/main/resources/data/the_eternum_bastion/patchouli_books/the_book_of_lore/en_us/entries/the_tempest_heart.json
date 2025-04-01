@@ -1,11 +1,17 @@
 {
-  "name":  "Tempest Heart",
-  "icon": "minecraft:writable_book",
+  "name": "Tempest Heart",
+  "icon": "the_eternum_bastion:tempest_heart",
   "category": "the_eternum_bastion:multiblocks",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "This is a test entry, but it should show up!"
+      "title": "Tempest Heart",
+      "text": "At the core of the Storm Nexus, the Tempest Heart is a colossal device that captures and refines the raw energies of the storm. Forged from void-forged alloy and radiant crystal, its facets shift between electric blue and brilliant white."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Functions",
+      "text": "It absorbs turbulent storm energy and converts it into controlled bursts, powering defensive wards and experimental spells. Its integration with the Aetherflow Conduit helps stabilize the Nexus, ensuring that even the chaotic forces of nature are harnessed safely."
     }
   ]
 }

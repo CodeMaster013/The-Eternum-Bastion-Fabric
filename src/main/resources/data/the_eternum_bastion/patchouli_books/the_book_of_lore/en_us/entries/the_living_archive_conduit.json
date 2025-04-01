@@ -1,11 +1,17 @@
 {
   "name": "Living Archive Conduit",
-  "icon": "minecraft:writable_book",
+  "icon": "the_eternum_bastion:living_archive_conduit",
   "category": "the_eternum_bastion:multiblocks",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "This is a test entry, but it should show up!"
+      "title": "Living Archive Conduit",
+      "text": "The Living Archive Conduit stands at the heart of the Arcane Bestiary. This ornate lectern-like device, fused with a crystalline interface, projects three-dimensional holograms of magical creatures and ancient lore."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Capabilities",
+      "text": "It provides an immersive sensory experience—simulating sounds, scents, and tactile sensations—so that scholars can study the creatures in unprecedented detail. Integrated with the Bastion’s magical network, it ensures that knowledge is constantly updated and accessible."
     }
   ]
 }

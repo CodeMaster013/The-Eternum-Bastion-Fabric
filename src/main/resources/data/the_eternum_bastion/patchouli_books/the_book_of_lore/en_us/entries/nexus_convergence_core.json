@@ -1,0 +1,17 @@
+{
+  "name": "Nexus Convergence Core",
+  "icon": "the_eternum_bastion:nexus_convergence_core",
+  "category": "the_eternum_bastion:multiblocks",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Nexus Convergence Core",
+      "text": "Deep within the Aetherial Confluence Chamber, the Nexus Convergence Core serves as the central hub where every Aetherflow Conduit converges. Crafted from void-forged alloys and enchanted crystal, its surface is etched with shifting runes that pulse with raw arcane power."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Functions & Integration",
+      "text": "The Core harmonizes energy from the Heartstone and the Rift, synchronizing the Bastion’s magical systems and powering advanced rituals. Its interactive holographic interface allows mages to monitor energy flows and adjust parameters in real time."
+    }
+  ]
+}

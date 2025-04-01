@@ -1,11 +1,17 @@
 {
-  "name": "Arcane Anvil Of Transmutation",
-  "icon": "minecraft:writable_book",
+  "name": "Arcane Anvil of Transmutation",
+  "icon": "the_eternum_bastion:arcane_anvil_of_transmutation",
   "category": "the_eternum_bastion:multiblocks",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "This is a test entry, but it should show up!"
+      "title": "Arcane Anvil of Transmutation",
+      "text": "At the heart of the Artifact Forging Foundry stands the Arcane Anvil of Transmutation. Forged from a rare, dark metal infused with shimmering aether, its surface is alive with dynamic runes that pulse with transformative energy."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Capabilities",
+      "text": "The Anvil absorbs raw magical power from the Aetherflow Conduit and emits concentrated bursts of arcane energy. It is essential for forging new relics and upgrading existing artifacts, ensuring they combine physical resilience with untamed magic."
     }
   ]
 }

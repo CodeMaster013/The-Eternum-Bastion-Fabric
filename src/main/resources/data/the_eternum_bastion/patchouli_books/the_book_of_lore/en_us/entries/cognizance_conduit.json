@@ -1,11 +1,17 @@
 {
   "name": "Cognizance Conduit",
-  "icon": "minecraft:writable_book",
+  "icon": "the_eternum_bastion:cognizance_conduit",
   "category": "the_eternum_bastion:multiblocks",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "This is a test entry, but it should show up!"
+      "title": "Cognizance Conduit",
+      "text": "At the core of the Labyrinthine Archive lies the Cognizance Conduit—a singular, imposing device crafted from crystalline alloys and etched with ever-shifting runes. This device forms an interactive interface between the physical archive and a virtual realm of pure knowledge."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Functions",
+      "text": "When activated, it establishes a neural connection with the user through arcane cables, transporting them into a pristine, crystalline space where the Archive’s living consciousness—The Intelligence of the Library—reveals ancient lore and prophetic visions. This conduit not only preserves forbidden knowledge but also serves as a gateway for transformation and insight."
     }
   ]
 }

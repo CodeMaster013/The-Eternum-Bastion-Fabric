@@ -1,11 +1,17 @@
 {
   "name": "Astral Confluence Beacon",
-  "icon": "minecraft:writable_book",
+  "icon": "the_eternum_bastion:astral_confluence_beacon",
   "category": "the_eternum_bastion:multiblocks",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "This is a test entry, but it should show up!"
+      "title": "Astral Confluence Beacon",
+      "text": "Located in the Celestial Port, the Astral Confluence Beacon is a grand, imposing device that serves as the nexus for interdimensional travel. It consists of a colossal, rotating orb crafted from void-forged alloy and luminous crystal, channeling stabilized cosmic energy from the Aetherflow Conduit."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Functions",
+      "text": "The Beacon calibrates and stabilizes the energy signatures of interdimensional portals, enabling safe and precise travel. Its holographic interface displays real-time star maps and cosmic flux data, allowing navigators to select destinations and fine-tune portal parameters while reinforcing the Bastion’s defenses against external threats."
     }
   ]
 }

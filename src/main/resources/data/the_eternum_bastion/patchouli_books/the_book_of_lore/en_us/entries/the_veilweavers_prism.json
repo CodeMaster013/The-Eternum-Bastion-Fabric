@@ -1,11 +1,17 @@
 {
   "name": "Veilweaver's Prism",
-  "icon": "minecraft:writable_book",
+  "icon": "the_eternum_bastion:veilweavers_prism",
   "category": "the_eternum_bastion:multiblocks",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "This is a test entry, but it should show up!"
+      "title": "Veilweaver's Prism",
+      "text": "Suspended at the center of the Enigmatic Illusions Hall, the Veilweaver's Prism is a multifaceted crystal etched with intricate runes. It emits a gentle, iridescent glow and continuously manipulates light and perception to create immersive, three-dimensional illusions."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Functions",
+      "text": "The Prism harnesses ambient magical energy to project elaborate illusions for training, deception, and scholarly study. It also serves as an interactive archive of ancient Hexcasting formulas and lore."
     }
   ]
 }
