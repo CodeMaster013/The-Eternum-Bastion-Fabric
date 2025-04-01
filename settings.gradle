@@ -8,6 +8,8 @@ pluginManagement {
             name = 'Patchouli'
             url = 'https://maven.blamejared.com/'
         }
+        maven {
+            url = "https://cursemaven.com" }
         gradlePluginPortal()
     }
 }

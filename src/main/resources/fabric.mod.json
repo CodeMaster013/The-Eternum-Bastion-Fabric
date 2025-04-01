@@ -21,6 +21,7 @@
     "fabricloader": ">=${loader_version}",
     "fabric": "*",
     "minecraft": "${minecraft_version}",
-    "patchouli": "1.19.2-77-FABRIC"
+    "patchouli": "1.19.2-77-FABRIC",
+    "blabber": ""
   }
 }
