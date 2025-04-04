@@ -38,7 +38,7 @@ See the [TODO.MD](TODO.MD) file for a list of upcoming features.
 ### Steps
 1. Download the latest `.jar` file from the [Modrinth release page](https://modrinth.com/project/the-eternum-bastion) or [GitHub releases](#).
 2. Place the downloaded `.jar` file into your Minecraft `mods` folder.
-3. Launch Minecraft with the Fabric profile.
+3. Launch Minecraft with the Fabric Or Quilt profile.
 
 ## Building from Source
 
