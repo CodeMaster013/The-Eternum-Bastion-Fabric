@@ -14,7 +14,7 @@
       "org.creators.the_eternum_bastion.The_eternum_bastionMod"
     ],
     "client": [
-      "org.creators.the_eternum_bastion.client.The_eternum_bastionModClient"
+      "org.creators.the_eternum_bastion.The_eternum_bastionModClient"
     ]
   },
   "depends": {
@@ -22,6 +22,6 @@
     "fabric": "*",
     "minecraft": "${minecraft_version}",
     "patchouli": "1.19.2-77-FABRIC",
-    "blabber": ""
+    "blabber": "4.0.0"
   }
 }
