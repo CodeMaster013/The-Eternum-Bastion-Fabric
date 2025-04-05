@@ -1,6 +1,6 @@
 package org.creators.the_eternum_bastion.item;
 
-import org.creators.the_eternum_bastion.TheEternumBastion;
+import org.creators.the_eternum_bastion.TheEternumBastionMod;
 import org.creators.the_eternum_bastion.item.custom.GuideBookItem;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.minecraft.item.Item;
@@ -12,7 +12,7 @@ public class ModItems {
             new GuideBookItem(new FabricItemSettings().group(ModItemGroup.BASTION)));
 
     private static Item registerItem(String name, Item item) {
-        return Registry.register(Registry.ITEM, new Identifier(TheEternumBastion.MOD_ID, name), item);
+        return Registry.register(Registry.ITEM, new Identifier(TheEternumBastionMod.MOD_ID, name), item);
     }
 
     public static void registerModItems() {
