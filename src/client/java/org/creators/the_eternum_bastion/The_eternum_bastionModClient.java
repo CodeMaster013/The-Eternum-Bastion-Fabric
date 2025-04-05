@@ -1,4 +1,4 @@
-package org.creators.the_eternum_bastion.client;
+package org.creators.the_eternum_bastion;
 
 import net.fabricmc.api.ClientModInitializer;
 
