@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "the_eternum_bastion:item/the_book_of_lore"
+    "layer0": "the_eternum_bastion:item/book"
   }
 }

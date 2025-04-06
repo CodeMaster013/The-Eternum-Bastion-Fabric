@@ -9,7 +9,7 @@ import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
 public class ModItems {
-    public static final Item LORE_BOOK = registerItem("Lore_Book",
+    public static final Item LORE_BOOK = registerItem("lore_book",
             new GuideBookItem(new FabricItemSettings().group(ItemGroup.TOOLS)));
 
     private static Item registerItem(String name, Item item) {

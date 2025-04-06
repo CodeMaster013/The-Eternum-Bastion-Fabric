@@ -13,7 +13,7 @@ base {
 repositories {
     mavenCentral()
     maven { url 'https://maven.blamejared.com' }
-    maven {url "https://cursemaven.com")
+    maven {url "https://cursemaven.com"}
 
 }
 
