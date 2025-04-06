@@ -21,11 +21,13 @@ public class GuideBookItem extends Item {
     }
 
     @Override
-    public TypedActionResult<ItemStack> use(World world, PlayerEntity user, Hand hand) {
-        if (world.isClient) {
-            PatchouliAPI.get().openBookGUI((ServerPlayerEntity) user, new Identifier("the_eternum_bastion:the_book_of_lore"));
+    public TypedActionResult<ItemStack> use(World world, PlayerEntity player, Hand hand) {
+        if (!world.isClient) {
+            if (player instanceof ServerPlayerEntity serverPlayer) {
+                PatchouliAPI.get().openBookGUI(serverPlayer, new Identifier("the_eternum_bastion:the_book_of_lore"));
+            }
         }
-        return TypedActionResult.success(user.getStackInHand(hand));
+        return TypedActionResult.success(player.getStackInHand(hand));
     }
 
     @Override

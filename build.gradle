@@ -13,7 +13,8 @@ base {
 repositories {
     mavenCentral()
     maven { url 'https://maven.blamejared.com' }
-    maven {url "https://cursemaven.com"}
+    maven {url "https://cursemaven.com")
+
 }
 
 dependencies {
@@ -23,7 +24,6 @@ dependencies {
     modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
     modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
     modImplementation "vazkii.patchouli:Patchouli:${project.patchouli_version}"
-    modImplementation "curse.maven:blabber-565396:3908780"
 }
 
 processResources {
