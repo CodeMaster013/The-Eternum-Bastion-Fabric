@@ -31,8 +31,8 @@ See the [TODO.MD](TODO.MD) file for a list of upcoming features.
 
 ### Requirements
 - **Minecraft:** 1.XX (please check the specific version on the Modrinth page)
-- **Fabric Loader:** Latest version
-- **Fabric API:** Latest version
+- **Fabric Or Quilt Loader:** Latest version
+- **Fabric or Quilt API:** Latest version
 - **Patchouli:** Latest Version
 
 ### Steps
