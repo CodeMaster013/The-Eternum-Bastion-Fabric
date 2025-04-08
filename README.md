@@ -51,8 +51,8 @@ Navigate into the project directory:
 cd The-Eternum-Bastion-Fabric
 
 Build the project using Gradle:
-
 ./gradlew build
+
 The compiled .jar file will be located in the build/libs directory.
 
 Contributing - 
